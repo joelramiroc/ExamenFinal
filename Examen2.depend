@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1505742502 source:c:\users\dell 5040 i7\desktop\examen2zebra-master\evaluador.cpp
+	"Evaluador.h"
+
+1505738338 c:\users\dell 5040 i7\desktop\examen2zebra-master\evaluador.h
+	"Libro.h"
+	"NodoBinario.h"
+	<iostream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<list>
+
+1505742550 c:\users\dell 5040 i7\desktop\examen2zebra-master\libro.h
+	<iostream>
+
+1505738338 c:\users\dell 5040 i7\desktop\examen2zebra-master\nodobinario.h
+	<iostream>
+
+1505738338 source:c:\users\dell 5040 i7\desktop\examen2zebra-master\libro.cpp
+	"Libro.h"
+
+1505738338 source:c:\users\dell 5040 i7\desktop\examen2zebra-master\nodobinario.cpp
+	"NodoBinario.h"
+
+1505742580 source:c:\users\dell 5040 i7\desktop\examen2zebra-master\main.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	"Libro.h"
+	"Evaluador.h"
+	"NodoBinario.h"
+
